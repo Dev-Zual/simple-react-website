@@ -1,12 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Products from './components/Products/Products';
 
 function App() {
   return (
     <div>
       <h1 className="text-2xl text-center font-bold">
-        Assignment proect started.
+        Buy Your Favorite Laptop
       </h1>
+      <Products />
     </div>
   );
 }
