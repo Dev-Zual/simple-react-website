@@ -46,8 +46,8 @@ const Products = () => {
           </button>
         </div>
         <div onClick={removeItem} className="mt-3">
-          <button className="bg-red-600 text-white py-2 px-4 rounded-md w-40">
-            Remove Item
+          <button className="bg-yellow-500 text-white py-2 px-4 rounded-md w-40">
+            Chose Again
           </button>
         </div>
       </div>

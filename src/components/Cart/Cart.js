@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { AiFillDelete } from 'react-icons/ai';
 const Cart = ({ item }) => {
   //   console.log(item);
   const { name, picture } = item;
@@ -11,7 +11,9 @@ const Cart = ({ item }) => {
       <div className="col-span-4">
         <h1 className="text-white font-semibold ml-2 text-sm">{name}</h1>
       </div>
-      <div className="col-span-1"></div>
+      <div className="col-span-1">
+        <AiFillDelete className="text-4xl text-red-900" />
+      </div>
     </div>
   );
 };
