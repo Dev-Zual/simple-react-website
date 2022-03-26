@@ -1,6 +1,8 @@
 # laptop shop
 
-This project was bootstrapped with [https://github.com/facebook/create-react-app].
+Here is the repository link: https://github.com/Programming-Hero-Web-Course4/lucky-one-Dev-Zual
+
+Here is the live site link: https://my-laptop-shop.netlify.app/.
 
 ## Available Scripts
 
