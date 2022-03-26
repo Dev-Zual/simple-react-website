@@ -1,8 +1,8 @@
 # laptop shop
 
-Here is the repository link: https://github.com/Programming-Hero-Web-Course4/lucky-one-Dev-Zual
+Here is the repository link: [https://github.com/Programming-Hero-Web-Course4/lucky-one-Dev-Zual](https://github.com/Programming-Hero-Web-Course4/lucky-one-Dev-Zual)
 
-Here is the live site link: https://my-laptop-shop.netlify.app/.
+Here is the live site link: [https://my-laptop-shop.netlify.app/](https://my-laptop-shop.netlify.app/).
 
 ## Available Scripts
 
