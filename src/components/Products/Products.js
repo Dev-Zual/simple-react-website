@@ -5,14 +5,17 @@ import Product from '../Product/Product';
 const Products = () => {
   const [products, setProducts] = useState([]);
   const [cart, setCart] = useState([]);
-  //   console.log(cart[2]);
+  //   console.log(cart[0].id);
   // add to cart function
   const addToCart = (product) => {
     const newCart = [...cart, product];
+    const exists = cart.find((pd) => pd.id === product.id);
     if (newCart.length > 4) {
       alert('You can not select more then four items.');
-    } else {
+    } else if (!exists) {
       setCart(newCart);
+    } else {
+      alert('This Product is allready exist.');
     }
   };
   // functio to remove all item

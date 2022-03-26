@@ -1,5 +1,6 @@
 import './App.css';
 import Products from './components/Products/Products';
+import Quistions from './components/Quistions/Quistions';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         Buy Your Favorite Laptop
       </h1>
       <Products />
+      <Quistions />
     </div>
   );
 }
