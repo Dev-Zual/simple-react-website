@@ -13,7 +13,7 @@ const Products = () => {
       <div className="col-span-9">
         <h2>this is Products.</h2>
         {products.map((product) => (
-          <Product product={product} />
+          <Product key={product.id} product={product} />
         ))}
       </div>
       <div className="col-span-3">
