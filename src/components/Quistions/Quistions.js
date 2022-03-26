@@ -35,7 +35,7 @@ const Quistions = () => {
           <div className="mt-5">
             <h3 className="text-xl font-semibold">State</h3>
             <p>
-              <strong>2. </strong>
+              <strong>1. </strong>
               The state is a local data storage that is local to the component
               only and cannot be passed to other components. <br />
               <strong>2. </strong>
