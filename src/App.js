@@ -3,8 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Assignment proect started.</h1>
+    <div>
+      <h1 className="text-2xl text-center font-bold">
+        Assignment proect started.
+      </h1>
     </div>
   );
 }
