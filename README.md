@@ -1,6 +1,6 @@
-# This is my laptop shop
+# laptop shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [https://github.com/facebook/create-react-app].
 
 ## Available Scripts
 
